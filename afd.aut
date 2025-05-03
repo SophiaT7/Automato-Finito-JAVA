@@ -1,0 +1,22 @@
+{
+  "initial": 0,
+  "final": [15],
+  "transitions": [
+    {"from": 0, "read": "a", "to": 1},
+    {"from": 1, "read": "a", "to": 2},
+    {"from": 2, "read": "b", "to": 3},
+    {"from": 3, "read": "a", "to": 4},
+    {"from": 4, "read": "b", "to": 5},
+    {"from": 5, "read": "a", "to": 6},
+    {"from": 6, "read": "b", "to": 7},
+    {"from": 7, "read": "a", "to": 8},
+    {"from": 8, "read": "b", "to": 9},
+    {"from": 9, "read": "b", "to": 10},
+    {"from": 10, "read": "b", "to": 11},
+    {"from": 11, "read": "a", "to": 12},
+    {"from": 12, "read": "b", "to": 13},
+    {"from": 13, "read": "a", "to": 14},
+    {"from": 14, "read": "b", "to": 15},
+    {"from": 15, "read": "a", "to": 15}
+  ]
+}
