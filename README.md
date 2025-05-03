@@ -6,7 +6,7 @@ finite automaton simulator made with JAVA
 
 
 Realiza:
-Leitura do Autómato através de um arquivo ".alt"(JSON) que possui:
+Leitura do Autómato através de um arquivo ".aut"(JSON) que possui:
 -Estado Inicial;
 -Lista de Estados Finais
 -Lista de Transições (sendo ou não vazias)
