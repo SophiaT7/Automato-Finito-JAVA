@@ -21,23 +21,24 @@ Leitura do Autómato através de um arquivo ".aut"(JSON) que possui:
 > Arquivo de Saida ".out" que possuí --> palavra;valorEsperado;resultadoObtido;tempoExucacao
 
 _____________________________
-> Arquivos:
-.aut:
+Arquivos:
+
+> .aut:
 initial:0, --> estado inicial
 final:[2], --> estados finais (lista de inteiros)
 tansitions: ["from":0, "to":0, "read": "a"] --> transições requeridas
 
 
-.in:
+> .in:
 aabab;1 --> palavra;valorEsperado
 bbba;0
 
 
-.out:
+> .out:
 aabab;1;1;0.234 --> palavra;valorEsperado;valorFinal;tempoExecucao
 
 _____________________________
->Como Executar?
+Como Executar?
 
 
 >compile:
