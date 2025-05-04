@@ -11,7 +11,7 @@ public class Main{
 		}
 
 		String arquivoAutomato=args[0]; // vao verificar se foram pasados como argumento
-		String arquivoEntrada=args[1];
+		String arquivoEntrada=args[1]; 
 		String arquivoSaida=args[2];
 
 		try{

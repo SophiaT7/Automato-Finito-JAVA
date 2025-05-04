@@ -1,0 +1,1 @@
+<arquivo_automato.aut> <arquivo_entrada.in> <arquivo_saida.out>
